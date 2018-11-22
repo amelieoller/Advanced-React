@@ -4,5 +4,15 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#FFC600",
     "titleBar.inactiveBackground": "#FFC600CC"
-  }
+	},
+	"cSpell.words": [
+		"get",
+		"inital",
+		"next",
+		"props",
+		"radnika",
+		"radnikanext",
+		"webfont",
+		"woff"
+	]
 }
